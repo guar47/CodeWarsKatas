@@ -1,1 +1,1 @@
-# CodeWats_katas
+# CodeWars_katas
